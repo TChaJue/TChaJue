@@ -1,30 +1,38 @@
 # TChaJue
 
-> 仓库初始化完成，等待填充内容。
+👋 欢迎来到我的 GitHub 主页。
 
-## 快速开始
+<!-- TODO: 把下面这段替换成你自己的介绍 -->
+
+## 关于我
+
+一句话介绍自己 —— 比如职业方向、正在做的事、感兴趣的技术领域。
+
+## 技术栈
+
+- 语言：
+- 框架 / 工具：
+- 正在学习：
+
+## 联系我
+
+- Email：
+- 其他：
+
+---
+
+## 关于本仓库
+
+这是 `TChaJue/TChaJue` 仓库，与用户名同名，因此它的 README 会展示在 GitHub 个人主页上。
 
 ```bash
-# 克隆
 git clone git@github.com:TChaJue/TChaJue.git
-
-# 首次提交后推送
-git add .
-git commit -m "feat: 描述你的改动"
-git push
 ```
-
-## 环境说明
 
 | 项目 | 配置 |
 | --- | --- |
 | 默认分支 | `main` |
-| 远程协议 | SSH（`git@github.com:TChaJue/TChaJue.git`） |
+| 远程协议 | SSH |
 | 提交身份 | `TChaJue <TChaJue@users.noreply.github.com>` |
-| 换行符 | `core.autocrlf=false` |
 
-## 目录约定
-
-- 源码按语言/模块分目录存放
-- 密钥、环境变量一律放 `.env` 并已被 `.gitignore` 排除，不要提交
-- `.workbuddy/` 为本地工具数据，不入库
+> ⚠️ 本仓库为公开仓库。请勿提交 `.env`、密钥、令牌等敏感信息 —— 它们已在 `.gitignore` 中被排除，但仍需在提交前确认。
